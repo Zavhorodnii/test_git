@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae1e6958-5395-44c4-a766-be7a179a5b0c" name="Default Changelist" comment="" />
+    <list default="true" id="ae1e6958-5395-44c4-a766-be7a179a5b0c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,11 +112,23 @@
       <option name="presentableId" value="Default" />
       <updated>1623588120922</updated>
       <workItem from="1623588169948" duration="2304000" />
+      <workItem from="1623608683117" duration="835000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="2043" y="139" key="#mian" timestamp="1623608488329">
@@ -106,22 +139,22 @@
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="2118" y="303" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608670701" />
-    <state width="1296" height="205" key="GridCell.Tab.0.bottom" timestamp="1623608680607">
+    <state width="1297" height="205" key="GridCell.Tab.0.bottom" timestamp="1623608829740">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1296" height="205" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608680607" />
-    <state width="1296" height="205" key="GridCell.Tab.0.center" timestamp="1623608680606">
+    <state width="1297" height="205" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608829740" />
+    <state width="1297" height="205" key="GridCell.Tab.0.center" timestamp="1623608829740">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1296" height="205" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608680606" />
-    <state width="1296" height="205" key="GridCell.Tab.0.left" timestamp="1623608680606">
+    <state width="1297" height="205" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608829740" />
+    <state width="1297" height="205" key="GridCell.Tab.0.left" timestamp="1623608829740">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1296" height="205" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608680606" />
-    <state width="1296" height="205" key="GridCell.Tab.0.right" timestamp="1623608680607">
+    <state width="1297" height="205" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608829740" />
+    <state width="1297" height="205" key="GridCell.Tab.0.right" timestamp="1623608829740">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
-    <state width="1296" height="205" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608680607" />
+    <state width="1297" height="205" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1623608829740" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test_git$main.coverage" NAME="main Coverage Results" MODIFIED="1623608827021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
